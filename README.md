@@ -10,7 +10,7 @@ I'm a full-stack developer from Lebanon, always curious and passionate about tur
 
 
 ## ☕ Fun Fact
-Did you know? I turn coffee into code and ideas into reality. With just the right amount of caffeine, I can transform complex problems into elegant solutions—one cup at a time! ☕ 
+Do you know? I turn coffee into code and ideas into reality. With just the right amount of caffeine, I can transform complex problems into elegant solutions—one cup at a time! ☕ 
 
 ## 🧰 Tech Stack & Frameworks
 <!-- Using badges for each language/framework -->
