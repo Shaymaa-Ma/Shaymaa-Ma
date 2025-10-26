@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shaymaa Mashaal
 
-## 👩‍💻 About Me
+## 👩‍💻 Welcome to my GitHub profile!  
 I'm a full-stack developer from Lebanon 🇱🇧, always curious and passionate about turning ideas into reality with the power of code. I love exploring new tech and sharing my learnings with the community.
 
 🌱 Currently diving deep into modern web technologies.
@@ -31,6 +31,12 @@ Did you know? I turn coffee into code and ideas into reality. With just the righ
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## 📊 GitHub Stats
+![Shaymaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaymaaMashaal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaymaaMashaal&layout=compact&theme=radical)
+
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaymaa-mashaal/)
