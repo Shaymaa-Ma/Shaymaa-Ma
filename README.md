@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shaymaa Mashaal
 
 ## 👩‍💻 Welcome to my GitHub profile!  
-I'm a full-stack developer from Lebanon 🇱🇧, always curious and passionate about turning ideas into reality with the power of code. I love exploring new tech and sharing my learnings with the community.
+I'm a full-stack developer from 🇱🇧 **Lebanon**, always curious and passionate about turning ideas into reality with the power of code. I love exploring new tech and sharing my learnings with the community.
 
 🌱 Currently diving deep into modern web technologies.
 🧠 I enjoy building innovative, user-friendly applications and writing clean, maintainable code.
