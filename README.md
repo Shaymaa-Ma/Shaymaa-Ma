@@ -33,11 +33,6 @@ Did you know? I turn coffee into code and ideas into reality. With just the righ
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 📊 GitHub Stats
-![Shaymaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaymaaMashaal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaymaaMashaal&layout=compact&theme=radical)
-
-
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaymaa-mashaal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaimaamashaal73@gmail.com)
