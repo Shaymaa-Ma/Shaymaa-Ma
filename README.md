@@ -12,8 +12,9 @@ Full-stack developer and Computer Science student from Lebanon, passionate about
 
 ---
 
+
 ## ⚡ Fun Fact
-I enjoy solving problems through code and building systems that transform ideas into functional and meaningful digital experiences.
+Do you know? I turn coffee into code and ideas into reality. With just the right amount of caffeine, I can transform complex problems into elegant solutions—one cup at a time! ☕
 
 ---
 
