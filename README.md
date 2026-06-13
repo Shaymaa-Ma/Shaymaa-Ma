@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Welcome to my GitHub profile!
 
-Full-stack developer and Computer Science student from Lebanon, passionate about building modern, scalable web applications and turning ideas into real-world digital products. I enjoy working across frontend, backend, and UI/UX design, with a strong focus on clean code and user-centered development.
+Full-stack developer, passionate about building modern, scalable web applications and turning ideas into real-world digital products. I enjoy working across frontend, backend, and UI/UX design, with a strong focus on clean code and user-centered development.
 
 🌱 Currently focused on modern full-stack web development and improving backend architecture  
 🧠 Passionate about building real-world, user-friendly applications with clean UI/UX  
